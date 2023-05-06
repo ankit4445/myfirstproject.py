@@ -1,2 +1,3 @@
-# myfirstproject.py
+# myfirstproject.py.. Stone, paper, scissors Game 
 started with my first project in  python.....
+
